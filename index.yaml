@@ -3,21 +3,21 @@ entries:
   chart1:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-11-26T22:19:24.307892887+01:00"
-    description: A Helm chart for Kubernetes
-    digest: e844549c1029b3f943687855e79eb21ec53fda9baa66c077761f224d489b795c
+    created: "2020-11-26T23:21:10.785757679+01:00"
+    description: A Helm apud chart for Kubernetes
+    digest: e50564d3a5bc68c1b371018f22327f18f8a8985c89902734fb53414dba5ded9d
     name: chart1
     urls:
-    - https://github.com/MagicznyAlbert/test-helm/releases/download/chart1-0.1.0/chart1-0.1.0.tgz
-    version: 0.1.0
+    - https://github.com/MagicznyAlbert/test-helm/releases/download/chart1-1.1.0/chart1-1.1.0.tgz
+    version: 1.1.0
   chart2:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-11-26T22:19:24.721113396+01:00"
+    created: "2020-11-26T23:21:11.003259795+01:00"
     description: A Helm chart for Kubernetes
-    digest: c9260493dd306bba5cc8d4ae0cfc4d45b3ea0165a604729248b6334f228f8585
+    digest: cb258959575bca318d3f4803714aac78597437912b33c71054903610fecfb4a8
     name: chart2
     urls:
-    - https://github.com/MagicznyAlbert/test-helm/releases/download/chart2-0.1.0/chart2-0.1.0.tgz
-    version: 0.1.0
-generated: "2020-11-26T22:19:23.824665548+01:00"
+    - https://github.com/MagicznyAlbert/test-helm/releases/download/chart2-1.1.0/chart2-1.1.0.tgz
+    version: 1.1.0
+generated: "2020-11-26T23:21:10.374684144+01:00"
